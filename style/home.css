@@ -201,6 +201,10 @@ border-radius: 25px;
     .contac{
         width: 80%;
     }
+    .lenguajes #sql{
+        background-color: #b2babb ;
+        border-radius: 28px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -215,5 +219,9 @@ border-radius: 25px;
     }
     .tecnologias #login{
       width: 50%;
+    }
+    .lenguajes #sql{
+        background-color: #b2babb ;
+        border-radius: 18px;
     }
 }
